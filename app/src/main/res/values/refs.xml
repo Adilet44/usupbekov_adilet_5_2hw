@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="heart">heart</drawable>
+    <drawable name="empty_heart">empty_heart</drawable>
+    <drawable name="timeline">timeline</drawable>
+    <drawable name="girl">girl</drawable>
+    <drawable name="bg_inner_item_history">bg</drawable>
+    <drawable name="equal">egual</drawable>
+    <drawable name="smaller_empty_heart">smaller</drawable>
+</resources>

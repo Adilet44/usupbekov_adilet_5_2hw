@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="calculatorFragment" type="id">h</item>
+    <item name="historyFragment" type="id">f</item>
+    <item name="resultFragment" type="id">s</item>
+</resources>
